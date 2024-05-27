@@ -1,0 +1,2 @@
+D:\Desktop\AppUpdaterBuild\AppUpdater.pdb
+D:\Desktop\AppUpdaterBuild\AppUpdater.exe
